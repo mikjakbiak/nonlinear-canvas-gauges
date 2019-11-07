@@ -1,6 +1,6 @@
 {
     "name": "nonlinear-canvas-gauges",
-    "version": "1.0.1",
+    "version": "1.0.4",
     "description": "Modification of canvas-gauges. Rendering nonlinear scale.",
     "main": "gauge.min.js",
     "directories": {
